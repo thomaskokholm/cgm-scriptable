@@ -1,0 +1,12 @@
+{
+  "name": "cgm-scriptable",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "@types/node": "^20",
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "serverless-mysql": "^1.5.5"
+  }
+}
